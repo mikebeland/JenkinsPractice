@@ -6,7 +6,7 @@ int main()
 {
   std::cout << "hello world";
 
-  //WOW PUSH TIME
+  //WOW PUSH TIME FOR REAL
   
   std::cin.get();
   return 0;
