@@ -6,7 +6,7 @@ int main()
 {
   std::cout << "hello world";
 
-  //WOW THIRD TIME
+  //WOW PUSH TIME
   
   std::cin.get();
   return 0;
